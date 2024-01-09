@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NIKK-666
+- 👋 Hi, I’m Nikk
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning C/C++
 - 📫 How to reach me just follow me and send hii
